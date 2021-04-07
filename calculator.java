@@ -1,3 +1,4 @@
+/* Thisprogramwill show demo on a simple calculator*/
 import java.util.Scanner;
 
  public class calculator
@@ -8,7 +9,8 @@ import java.util.Scanner;
        char choice, ch;
        Scanner scan = new Scanner(System.in);
 	      
-      	do
+      	
+       do
          {
            System.out.print("1. Addition\n");
            System.out.print("2. Subtraction\n");
